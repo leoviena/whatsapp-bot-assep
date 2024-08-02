@@ -1,6 +1,3 @@
-# Save the README content to a file and provide a download link
-
-readme_content = """
 # WhatsApp Bot for ASSEP
 
 Este é um projeto de bot para WhatsApp desenvolvido para a ASSEP, utilizando a biblioteca `whatsapp-web.js`.
